@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586923096039",
+    "firebase_url": "https://vitcabuser-and-indriver-app-default-rtdb.firebaseio.com",
+    "project_id": "vitcabuser-and-indriver-app",
+    "storage_bucket": "vitcabuser-and-indriver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586923096039:android:96b79e2f882fe95edf6f42",
+        "android_client_info": {
+          "package_name": "com.harshyadav.driverapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586923096039-herheta1r1rub21keeg2otlb7qalc8qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJVZog9K3gZoVQtapRRO4n4zO38JIBYWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586923096039-herheta1r1rub21keeg2otlb7qalc8qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
